@@ -91,7 +91,7 @@ if (windowSupport.style.display === "flex") {
 
 // & Script Send in room discord from webhock
 
-const WEBHOOK_URL = 'https://discord.com/api/webhooks/1350070902989258793/3-uZUzk4_vtuYFusKmZfKDjoZXM5TpIzAe5h-6qvdODq7FODyoGGcqv2g7cj0iNQZAHW';
+const WEBHOOK_URL = 'https://discord.com/api/webhooks/1347669343827132518/sTmZB4u1mH78nxOG5bxpU_L0cWnmUmm3PjaFJd1-QPAEIKeCnc-fB7QJ99DQCuAKyx7y';
 
 document.getElementById('messageForm').addEventListener('submit', async (e) => {
     e.preventDefault();
